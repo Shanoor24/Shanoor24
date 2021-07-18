@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanoor</h1>
-<h3 align="center">Aspiring & well qualified Full Stack Web Developer and Problem solver with an analytical mindset</h3>
+<h3 align="center">Aspiring & well qualified Full Stack Web Developer and problem solver with an analytical mindset.</h3>
 
 
 <p align= "center">
@@ -31,8 +31,8 @@
 
 <h3 align="left">Find me around the web</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/shanoor-balekundri-33312916b/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@way2reachsuman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="https://hashnode.com/@Shanoor24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanoor-balekundri-33312916b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/shanoor-balekundri-33312916b/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Shanoor24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="https://hashnode.com/@Shanoor24" height="30" width="40" /></a>
 </p>
 
 
@@ -63,12 +63,12 @@
   <span/>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
 </p>
-<!-- 
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanoor24&show_icons=true&locale=en&layout=compact" alt="Shanoor24"/>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-Sahu)](https://github.com/Shanoor24/github-readme-stats) --> 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-Sahu)](https://github.com/Shanoor24/github-readme-stats) -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanoor24&show_icons=true&locale=en" alt="Shanoor24" /></p>
 
