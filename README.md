@@ -75,6 +75,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanoor24&" alt="Shanoor24" /></p> -->
 
 
+
+
 <h1 align="center">Hi 👋, I'm Shanoor</h1>
 <h3 align="center">Aspiring & well qualified Full Stack Web Developer and problem solver with an analytical mindset.</h3>
  <br/>
@@ -106,6 +108,7 @@
 <br/>
  
 <div align="center" >
+  
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -113,6 +116,9 @@
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+
+  
   </div>
   
  <br/>
