@@ -68,7 +68,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanoor24&show_icons=true&locale=en&layout=compact" alt="Shanoor24"/>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani-Sahu)](https://github.com/Shanoor24/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanoor24)](https://github.com/Shanoor24/github-readme-stats) -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanoor24&show_icons=true&locale=en" alt="Shanoor24" /></p>
 
@@ -79,9 +79,10 @@
 
 <h1 align="center">Hi 👋, I'm Shanoor</h1>
 <h3 align="center">Aspiring & well qualified Full Stack Web Developer and problem solver with an analytical mindset.</h3>
- 
+  <br/>
+  
   <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" /></a>
 </p>
 
 
