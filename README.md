@@ -78,11 +78,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Shanoor</h1>
-<h3 align="center">Aspiring & well qualified Full Stack Web Developer and problem solver with an analytical mindset.</h3>
+<!-- <h3 align="center">Aspiring Full Stack Web Developer and problem solver with an analytical mindset.</h3> -->
   <br/>
   
   <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=Aspiring+Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" /></a>
 </p>
 
 
