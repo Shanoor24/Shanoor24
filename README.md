@@ -78,20 +78,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Shanoor</h1>
-<!-- <h3 align="center">Aspiring Full Stack Web Developer and problem solver with an analytical mindset.</h3> -->
-  <br/>
-  
-  <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=Aspiring+Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" /></a>
+<!-- <h3 align="center">Experienced Full Stack Web Developer with a passion for problem-solving and a knack for analytical thinking.</h3> -->
+<br/>
+
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=Experienced+Full+Stack+Web+Developer;2+Years+of+Professional+Experience;Expert+in+MERN+Stack;Data+Structures+and+Algorithms" /></a>
 </p>
 
 
-- 🌱 I’m currently learning MERN stack
-- 👀 I’m interested in web development
-- 📫 How to reach me email Id : shanoorfb2403@gmail.com
-- 👨‍💻 Portfolio - [https://shanoor-portfolio-f8c124.netlify.app/](https://shanoor-portfolio-f8c124.netlify.app/)
 
-- 📄 Resume -  [http://tiny.cc/shanoor--resume](http://tiny.cc/shanoor--resume)
+- 🌟 I have 2 years of professional experience in Full Stack Development.
+- 💼 Proficient in the MERN stack (MongoDB, Express.js, React, Node.js).
+- 💡 Passionate about building scalable web applications and interactive user experiences.
+- 📫 How to reach me email Id : shanoorfb2403@gmail.com
+- 👨‍💻 Portfolio - [https://shanoor24.github.io/portfolio](https://shanoor24.github.io/portfolio)
+
+- 📄 Resume -  [https://drive.google.com/file/d/1P1SW_m54xLazMZMFTasPEjPi-WAc1CwG/view](https://drive.google.com/file/d/1P1SW_m54xLazMZMFTasPEjPi-WAc1CwG/view)
 
 
 
